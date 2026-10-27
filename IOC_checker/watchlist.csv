@@ -1,0 +1,4 @@
+ioc,type,category,description
+203.0.113.45,ipv4,malicious,Example C2 server
+evil.example,domain,phishing,Example phishing domain
+44d88612fea8a8f36de82e1278abb02f,md5,malicious,Example test hash
